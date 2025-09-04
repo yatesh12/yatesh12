@@ -79,7 +79,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yatesh12&theme=dark&show_icons=true&hide_border=false" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yatesh12&theme=dark&hide_border=false" alt="Streak Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yatesh12&theme=dark&layout=compact" alt="Top Languages"/>
 </p>
 
