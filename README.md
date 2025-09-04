@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/profile.png" alt="Yatesh Ahire" width="150" style="border-radius: 50%;" />
+  <img src="./Banner.png" alt="Yatesh Ahire" style="width:100%; max-width:1000px;" />
   <p>
     <a href="https://linkedin.com/in/yatesh-ahire3205" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
