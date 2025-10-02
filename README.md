@@ -79,12 +79,16 @@
   <summary><strong>📂 Featured Projects</strong></summary>
 
   - **DataBits**: AI-powered data profiling & preprocessing platform.  
-    <small>React · Tailwind · TypeScript · Flask · Python · GitHub</small>
+    <small>React · Tailwind · TypeScript · Flask · Python · ML</small>
   
   - **Neuron**: Hybrid social media mobile app.  
-    <small>React Native · Expo · TypeScript · Modular Architecture</small>
+    <small>React Native · Expo · TypeScript · Modular Architecture · UI.UX</small>
+
+  - **FinPlan AI**: Personalized financial planning assistant.  
+    <small>Python · React · LLMs · RAG · Vector DB · ML</small>
   
   - **React E-Commerce Frontend**: Multi-vendor marketplace UI.  
-    <small>React · Dynamic Components · Vendor Dashboard</small>
+    <small>React · Node · UI/UX · Vendor Dashboard</small>
+
 </details>
 
