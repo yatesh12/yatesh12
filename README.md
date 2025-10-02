@@ -17,7 +17,7 @@
 </div>
 🚀 About Me
 
-- **Currently working on** DataBits — an AI-powered data-preprocessing platform built with React, Tailwind CSS, TypeScript, Flask, and Python.  
+- **Currently working on** DataBits: an AI-powered data-preprocessing platform built with React, Tailwind CSS, TypeScript, Flask, and Python.  
 - **Looking to collaborate on** full-stack AI/ML projects that marry intuitive UX (React / React Native) with robust, real-time backends (Node.js / Express, REST APIs).  
 - **Seeking help with** productionizing ML pipelines and optimizing real-time data ingestion/reporting workflows (Python, SQL, Docker).  
 - **Currently learning** advanced large-language models and cloud-native deployment patterns (Docker, Kubernetes, GCP AI services).  
